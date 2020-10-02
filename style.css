@@ -1,0 +1,18 @@
+.less5-2 ul li {
+    font-size: 25px;
+}
+.less5-2 ol li{
+    margin-left: 45px;
+}
+.less5-3 ul li a{
+    text-decoration: none;
+    color: #000;
+    transition: none;
+    margin-left: 5px;
+    
+}
+.less5-3 ul li{
+    margin-bottom: 5px;
+}
+
+
