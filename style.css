@@ -1,99 +1,150 @@
 .less5-2 ul li {
-    font-size: 25px;
+  font-size: 25px;
 }
-.less5-2 ol li{
-    margin-left: 45px;
+.less5-2 ol li {
+  margin-left: 45px;
 }
-.less5-3 ul li a{
-    text-decoration: none;
-    color: #000;
-    transition: none;
-    margin-left: 5px;
-    
+.less5-3 ul li a {
+  text-decoration: none;
+  color: #000;
+  transition: none;
+  margin-left: 5px;
 }
-.less5-3 ul li{
-    margin-bottom: 5px;
+.less5-3 ul li {
+  margin-bottom: 5px;
 }
-.my-body{
-    margin-left: 50px;
-    padding: 0;
+.my-body {
+  margin-left: 50px;
+  padding: 0;
 }
-.oderform select{
-    width: 185px;
-    padding: 4px;
+.oderform select {
+  width: 185px;
+  padding: 4px;
 }
 
-.list{
-    width: 230px;
-    padding: 5px;
+.list {
+  width: 230px;
+  padding: 5px;
 }
 /*table simplesimple*/
 h1 {
-    color: red;
+  color: red;
 }
-.container{
-    margin-left: 50px;
+.container {
+  margin-left: 50px;
 }
-.form{
-    margin-left: 50px;
-    border: 1px solid;
-    border-radius: 3px;
-    width: 266px;
-    padding: 14px;
+.form {
+  margin-left: 50px;
+  border: 1px solid;
+  border-radius: 3px;
+  width: 266px;
+  padding: 14px;
 }
-.all{
-    margin-left: 16px;
-    padding: 8px;
-
+.all {
+  margin-left: 16px;
+  padding: 8px;
 }
-.all form label{
-    margin-left: 16px;
-    padding: 8px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.all form label {
+  margin-left: 16px;
+  padding: 8px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-.form-money{
-    position: relative;
-    right: 30px;
+.form-money {
+  position: relative;
+  right: 30px;
 }
-.form-get input{
-    width: 182px;
+.form-get input {
+  width: 182px;
 }
-.form .all h2{
-  
+.form .all h2 {
 }
-.form .all h3{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 15px;
-    margin-bottom: 25px;
+.form .all h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  margin-bottom: 25px;
 }
-.name input{
-    width: 97px;
-    margin: 5px;
-    position: relative;
-    right: 7px;
-    bottom: 64px;
+.name input {
+  width: 97px;
+  margin: 5px;
+  position: relative;
+  right: 7px;
+  bottom: 64px;
 }
-h3 p{
-    color: red;
-    position: relative;
-    text-align: center;
-    text-align: top;
-    bottom: 46px;
-    font-size: 26px;
+h3 p {
+  color: red;
+  position: relative;
+  text-align: center;
+  text-align: top;
+  bottom: 46px;
+  font-size: 26px;
 }
-.email{
-    position: relative;
-    bottom: 45px;
+.email {
+  position: relative;
+  bottom: 45px;
 }
-.email input{
-    width: 210px;
-    padding: 2px;
+.email input {
+  width: 210px;
+  padding: 2px;
 }
-.phone input{
-    width: 60px;
+.phone input {
+  width: 60px;
 }
-.send{
-    position: relative;
-    top: 20px;
-    width: 58px;
+.send {
+  position: relative;
+  top: 20px;
+  width: 58px;
+}
+.hobby {
+  border: 1px solid;
+  width: 486px;
+  padding: 0px;
+  position: relative;
+  left: 486px;
+  background: #ff4c01;
+  color: #fff;
+  border-radius: 5px;
+  margin-bottom: 17px;
+}
+.hobby h3 {
+  text-align: center;
+}
+.container {
+  text-align: center;
+}
+.introduce {
+  position: relative;
+  top: 14px;
+}
+.introduce p {
+  margin-right: 64px;
+  font-size: 21px;
+  font-family: auto;
+}
+.introduce .chung {
+  position: relative;
+  left: 163px;
+  bottom: 50px;
+  width: 229px;
+}
+.selection {
+  position: relative;
+  left: 180px;
+  bottom: 48px;
+  line-height: 39px;
+}
+.selection label {
+  margin-right: 12px;
+}
+.selection label input {
+  margin-right: 7px;
+}
+.nhap {
+  position: relative;
+  bottom: 28px;
+  left: 53px;
+}
+.nhap input {
+  margin-right: 19px;
 }
