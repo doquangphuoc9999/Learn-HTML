@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="../style.css" type="text/css" rel="stylesheet" />
+    <title>create form simple2</title>
+  </head>
+  <body>
+
+    <div class="student">
+        <h3>Đăng ký học viên</h3>
+    </div>
+    <form class="form-two">
+      <!-- <div class="login-student"> -->
+      </div>
+      <table>
+        <tr>
+          <td>Họ và Tên</td>
+          <td><input type="text" /></td>
+        </tr>
+        <tr>
+          <td>Ngày Sinh</td>
+          <td><input type="date" /></td>
+        </tr>
+        <tr>
+          <td>Giới tính</td>
+          <td class="gender"><input type="radio" name="gender" value="male" />Nam</td>
+          <td class="gender"><input type="radio" name="gender" value="Famale" />Nữ</td>
+        </tr>
+        <tr>
+          <td>Địa Chỉ</td>
+          <td><input type="text" /></td>
+        </tr>
+        <tr>
+          <td>Lớp</td>
+          <td><input type="number" min="1" max="12" value="-Chọn Lớp-" /></td>
+        </tr>
+        <tr>
+          <td>Email</td>
+          <td><input type="email" /></td>
+        </tr>
+        <tr>
+          <td>Điện thoại</td>
+          <td><input type="tel" /></td>
+        </tr>
+      </table>
+     <div class="send">
+        <input type="submit" value="Đăng ký" />
+        <input type="reset" value="Nhập lại" />
+     </div>
+    </form>
+  </body>
+</html>

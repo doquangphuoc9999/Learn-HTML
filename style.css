@@ -148,3 +148,33 @@ h3 p {
 .nhap input {
   margin-right: 19px;
 }
+.login-student {
+  border-collapse: collapse;
+  width: 280px;
+  border-radius: 4px;
+  background: #2948c9;
+  color: #fff;
+}
+
+.student h3 {
+  background-color: #d4fdd5;
+  color: #214ef5;
+  position: relative;
+  top: 19px;
+}
+.form-two {
+  background: #fffdaa;
+  padding: 39px;
+}
+form table tr td {
+  color: #2d439d;
+}
+.send {
+  display: contents;
+}
+.send input {
+  position: relative;
+  top: 17px;
+  left: 75px;
+  margin-right: 5px;
+}
