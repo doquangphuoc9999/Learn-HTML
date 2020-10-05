@@ -1,0 +1,51 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(1),
+tr:nth-child(3),
+tr:nth-child(5) {
+  background-color: #dddddd;
+}
+.name-money {
+  display: flex;
+}
+.name-money .dolar {
+  margin-right: 134px;
+}
+.market {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 23px;
+}
+.surver {
+  font-size: 16px;
+  color: #555;
+}
+.range {
+  font-size: 16px;
+  font-weight: bold;
+}
+.old {
+  width: 300px;
+}
+.old option {
+  font-size: 30px;
+}
+.safari select option {
+  font-size: 120% !important;
+  margin: 0 0 1px 0;
+}
+.last {
+  position: relative;
+  top: 10px;
+  width: 85px;
+  padding: 6px;
+  border-radius: 5px;
+}
