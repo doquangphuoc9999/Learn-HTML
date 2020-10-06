@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  color: #0d36ec;
+}
+
+.infomation p {
+  color: #6377d3;
+}
+.time {
+  color: #6377d3;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+}
+.gop {
+  position: relative;
+  top: 19px;
+  margin-bottom: 29px;
+}
+tr:nth-child(2) {
+  background: #ffb200;
+}
+tr:nth-child(1) th:nth-child(1n + 2) {
+  background: #fefb00;
+}
